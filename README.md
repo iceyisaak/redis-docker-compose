@@ -1,4 +1,3 @@
-```markdown
 # Redis + Redis Insight Docker Environment
 
 A production-ready Docker Compose setup providing a high-performance Redis instance paired with the Redis Insight GUI for easy data management.
