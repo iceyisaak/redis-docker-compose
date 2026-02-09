@@ -101,11 +101,4 @@ docker exec -it redis_server redis-cli
 
 ```
 
----
 
-### Pro Tip:
-If you find yourself running these commands often, you can create a simple `Makefile` or an alias in your `.zshrc`/`.bashrc` to make `docker-compose up -d` as simple as typing `redis-up`.
-
-Would you like me to generate a `healthcheck` block for the YAML to ensure the GUI waits for the DB to be fully "Ready" before it attempts to connect?
-
-```
