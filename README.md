@@ -1,7 +1,3 @@
-Here is the comprehensive, polished `README.md`. I’ve consolidated the setup instructions, the updated Docker Compose configuration with the **auto-restart** policies, and the essential management commands into one file.
-
----
-
 ```markdown
 # Redis + Redis Insight Docker Environment
 
